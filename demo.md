@@ -68,19 +68,19 @@ The following requirements should be met:
 We would be happy if you would submit a project you already have (for instance, a demo project for another company). Still, the project **must**:
 
 * Use Swift 3.0 or above.
-* Have two distinct network calls.
+* Have at least two distinct network calls.
 * Parse the network response and present the information to the user.
 * Have some sort of persistence mechanism.
 * Compile and run.
 * Have a point of synchronization (e.g. making two concurrent requests and waiting for both of them to finish).
 
-If you have a project with these requirements, then perfect! Please ensure that you also have a description of what the project does in order to give us some context.
+If you have a project with these requirements, then perfect! Please ensure that you also have a description of what the project does, in order to give us some context.
 
 Once again, please note that the requirements above are **mandatory**.
 
 ### 3. Open Source work
 
-We would like to see a **non-trivial** pull request you have made to a public open source project. This should be something you are proud of that shows your technical skills. **It should also be related to iOS development** and aligned with what you will do on a day-to-day basis. 😊✨🌳
+We would like to see a **non-trivial** pull request you have made to a public open source project. This should be something you are proud of and where you show your technical skills. **It should also be related to iOS development** and aligned with what you will do on a day-to-day basis. 😊✨🌳
 
 #### Thanks for your time! We look forward to hearing from you!
 - The [babylon health iOS team](http://github.com/Babylonpartners)
