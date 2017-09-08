@@ -27,6 +27,7 @@ Before proceeding to the section of your choice, please consider the following t
 * You can use any 3rd party libraries you wish (`Alamofire`, `ReactiveCocoa`, `PromiseKit`, `Realm`, etc). In case you do, be prepared to justify why you chose them. You can use `CocoaPods`, `Carthage` or `Git Submodules` for this (please don't drag and drop stuff around).
 * **Be consistent in your code**. We advise using something like [raywenderlich's swift style guide](https://github.com/raywenderlich/swift-style-guide) while doing the demo. It's absolutly fine to use any other style, as long as you are consistent.
 * Clean the file project structure (if you are creating one from scratch) and remove any unused methods (e.g., from `AppDelegate`). This shows attention to detail.
+* If you have to use VIPER please give it your own spin. Even though it's a good architecture often times it carries a lot of boilerplate which makes all tests that use it look the same.
 
 ### 1. The babylon demo project
 
